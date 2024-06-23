@@ -728,5 +728,3 @@ canvas {
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
